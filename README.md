@@ -60,9 +60,11 @@ Frequentist methods rely solely on observed data and do not incorporate prior be
 
 Part B: Data Handling and Analysis
 1. Handling Missing Data and Inconsistencies
+   
 To handle missing data or inconsistencies, I would identify missing values through dataset examination. Depending on the extent and impact, options include imputation or deleting incomplete records.
 
-2. Descriptive Statistics
+3. Descriptive Statistics
+   
 Mean Mortality Rates:
 
 All: 95.67
@@ -80,9 +82,11 @@ Minimum and Maximum Values: Show mortality rate ranges within each category.
 Skewness and Kurtosis: Positive skewness indicates a distribution tail extending towards higher values. High kurtosis indicates heavy tails compared to normal distribution.
 
 3. Observed Trends
+   
 Visualizations show spikes in mortality rates around birthdays, with a significant spike after the 21st birthday, supporting the impact of legal drinking age on mortality rates.
 
-4. Impact of Legal Access to Alcohol on Mortality Rates
+5. Impact of Legal Access to Alcohol on Mortality Rates
+   
 All-Cause Mortality:
 Treatment coefficient: 5.51044, significant (p < .0001).
 Legal alcohol access increases all-cause mortality by 5.51 units.
