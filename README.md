@@ -7,6 +7,7 @@ Additionally, it explores data handling strategies, descriptive statistics, tren
 
 Part A: Statistical Methods and Analysis
 1. Ordinary Least Squares (OLS) Regression
+
 (a) Potential Problems with OLS
 Using OLS to estimate the given model might pose issues due to violations of linear regression assumptions such as heteroscedasticity, multicollinearity, and endogeneity.
 For example, smoking during pregnancy might correlate with unobserved factors affecting birth weight, leading to biased coefficient estimates.
