@@ -17,6 +17,7 @@ Including data on the average price of cigarettes in the state of residence coul
 This variable can control for endogeneity issues related to smoking behavior during pregnancy, allowing for a more accurate estimation of the smoking effect on birth weight.
 
 2. Quantile Regression
+
 (a) Difference from OLS
 Quantile regression differs from OLS regression in estimating conditional quantiles of the response variable, rather than the conditional mean.
 This provides a more comprehensive understanding of the variable relationships across different quantiles.
@@ -26,6 +27,7 @@ Quantile regression captures heterogeneous effects across response variable quan
 However, it does not address endogeneity concerns, requiring additional techniques like instrumental variables for causal inference.
 
 3. Logistic Regression
+
 (a) Logistic Regression Model
 The logistic regression model is given by:
 
@@ -37,6 +39,7 @@ For a continuous predictor variable, the coefficient indicates the change in log
 For an indicator variable, the coefficient indicates the change in log-odds when the variable changes from 0 to 1.
 
 4. Principal Component Analysis (PCA)
+   
 (a) Purpose and Difference from Regression Models
 PCA is used for dimensionality reduction and data visualization. It identifies patterns by transforming original variables into orthogonal principal components, capturing maximum variance.
 Unlike regression models, PCA is an unsupervised learning technique for exploratory data analysis.
@@ -46,6 +49,7 @@ Linear independence refers to the absence of correlation between variables. PCA 
 An example is reducing the dimensionality of gene expression data in genetics while preserving variability.
 
 5. Model Inference and Bayesian Methods
+   
 (a) Model Inference
 Model inference involves drawing conclusions or predictions from a fitted statistical model.
 For instance, in linear regression, the relationship between variables and future observations can be inferred from the estimated coefficients.
