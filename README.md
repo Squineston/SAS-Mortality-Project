@@ -86,7 +86,9 @@ Drugs: 4.25
 External Other: 9.60
 
 Standard Deviation: Indicates variability around the mean. Higher values suggest more variability.
+
 Minimum and Maximum Values: Show mortality rate ranges within each category.
+
 Skewness and Kurtosis: Positive skewness indicates a distribution tail extending towards higher values. High kurtosis indicates heavy tails compared to normal distribution.
 
 3. Observed Trends
