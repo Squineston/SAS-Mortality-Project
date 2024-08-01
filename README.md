@@ -63,18 +63,26 @@ Part B: Data Handling and Analysis
    
 To handle missing data or inconsistencies, I would identify missing values through dataset examination. Depending on the extent and impact, options include imputation or deleting incomplete records.
 
-3. Descriptive Statistics
+2. Descriptive Statistics
    
 Mean Mortality Rates:
 
 All: 95.67
+
 Internal: 20.29
+
 External: 75.39
+
 Alcohol: 1.26
+
 Homicide: 16.91
+
 Suicide: 12.35
+
 Motor Vehicle Accidents (MVA): 31.62
+
 Drugs: 4.25
+
 External Other: 9.60
 
 Standard Deviation: Indicates variability around the mean. Higher values suggest more variability.
@@ -124,6 +132,7 @@ Treatment coefficient: 0.73478, significant (p = 0.0002).
 Increases other external mortality by 0.73 units.
 
 Summary
+
 Legal access to alcohol appears to have varying effects on different types of mortality rates. 
 While it significantly increases all-cause, internal, alcohol-related, suicide, drug-related, and other external mortality rates, it shows a decrease in mortality rates from motor vehicle accidents. 
 The impact on homicide mortality rates is modest. 
