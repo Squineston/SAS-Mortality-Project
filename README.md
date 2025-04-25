@@ -95,7 +95,7 @@ Skewness and Kurtosis: Positive skewness indicates a distribution tail extending
    
 Visualizations show spikes in mortality rates around birthdays, with a significant spike after the 21st birthday, supporting the impact of legal drinking age on mortality rates.
 
-5. Impact of Legal Access to Alcohol on Mortality Rates
+4. Impact of Legal Access to Alcohol on Mortality Rates
    
 All-Cause Mortality:
 Treatment coefficient: 5.51044, significant (p < .0001).
